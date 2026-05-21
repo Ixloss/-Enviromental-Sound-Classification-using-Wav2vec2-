@@ -18,11 +18,11 @@ An'anaviy kompyuter ko'rish (Computer Vision) yoki matnli NLP loyihalaridan farq
 ---
 
 ## 📊 Dataset Ma'lumotlari (Data Source)
-Loyihani amalga oshirishda Hugging Face ekotizimidagi mashhur **ashraq/esc50** (Environmental Sound Classification) ma'lumotlar to'plamidan foydalanildiSinflar soni (Classes):):** 50 ta har xil tovush toifasi (masalan: it hurishi, yomg'ir ovozi, mashina signali, dengiz to'lqinlari, chaqmoq va h.k.)Audio formati:i:** Amplituda to'lqinlari massivi (Waveform raw array)Sampling Rate (Chastota):):** Modelning ichki arxitektura talabidan kelib chiqib, barcha audio fayllar majburiy ravis16,000 Gts (16 kHz)z)** chastotaga o'tkazildi.
+Loyihani amalga oshirishda Hugging Face ekotizimidagi mashhur **ashraq/esc50** (Environmental Sound Classification) ma'lumotlar to'plamidan foydalanildi. Sinflar soni (Classes):):** 50 ta har xil tovush toifasi (masalan: it hurishi, yomg'ir ovozi, mashina signali, dengiz to'lqinlari, chaqmoq va h.k.)Audio formati:** Amplituda to'lqinlari massivi (Waveform raw array)Sampling Rate (Chastota):** Modelning ichki arxitektura talabidan kelib chiqib, barcha audio fayllar majburiy ravishda 16,000 Gts (16 kHz)z)** chastotaga o'tkazildi.
 
 ---
 
-## 🏗️ Texnologiyalar Steki (Tech StackDasturlash tili:i:** Python Deep Learning Freymvorki:i:** PyTorch (Torch AudioKutubxonalar:r:** Hugging Face Transformers, Hugging Face DatasetHisoblash muhiti:i:** Google Colab (T4 GPU Accelerator
+## 🏗️ Texnologiyalar Steki (Tech StackDasturlash tili:** Python Deep Learning Freymvorki:** PyTorch (Torch AudioKutubxonalar:r:** Hugging Face Transformers, Hugging Face DatasetHisoblash muhiti:** Google Colab (T4 GPU Accelerator
 
 
 
