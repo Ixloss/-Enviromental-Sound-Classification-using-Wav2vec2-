@@ -22,7 +22,7 @@ Loyihani amalga oshirishda Hugging Face ekotizimidagi mashhur **ashraq/esc50** (
 
 ---
 
-## 🏗️ Texnologiyalar Steki (Tech StackDasturlash tili:i:** PythoDeep Learning Freymvorki:i:** PyTorch (Torch AudioKutubxonalar:r:** Hugging Face Transformers, Hugging Face DatasetHisoblash muhiti:i:** Google Colab (T4 GPU Accelerator
+## 🏗️ Texnologiyalar Steki (Tech StackDasturlash tili:i:** Python Deep Learning Freymvorki:i:** PyTorch (Torch AudioKutubxonalar:r:** Hugging Face Transformers, Hugging Face DatasetHisoblash muhiti:i:** Google Colab (T4 GPU Accelerator
 
 
 
